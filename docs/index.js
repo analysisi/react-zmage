@@ -20,7 +20,6 @@ export default class App extends React.Component {
         this.state = {
             browsing: false,
         }
-        debugger
     }
 
     render() {
